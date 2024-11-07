@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1730863527 source:c:\users\muham\onedrive\dokumen\tugas kuliah\strukdat\queue_vaksinasi\main.cpp
+	<iostream>
+	"queue_vaksinasi.h"
+
+1730865527 c:\users\muham\onedrive\dokumen\tugas kuliah\strukdat\queue_vaksinasi\queue_vaksinasi.h
+
+1730863356 source:c:\users\muham\onedrive\dokumen\tugas kuliah\strukdat\queue_vaksinasi\queue_vaksinasi.cpp
+	<iostream>
+	"queue_vaksinasi.h"
+
